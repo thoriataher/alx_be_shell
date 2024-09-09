@@ -1,5 +1,4 @@
 ## shell permissions ALX task
-* Tasks
 0-iam_betty 
 1. Who am I
 2. Empty!
